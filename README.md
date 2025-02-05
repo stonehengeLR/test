@@ -1,2 +1,2 @@
 # test
-Test repo for pas
+Test repo for pass
