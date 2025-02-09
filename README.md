@@ -1,2 +1,2 @@
 # test
-Test repo for passp
+Test repo for passpo
